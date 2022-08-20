@@ -12,10 +12,6 @@ url: "https://Charles-Zhong.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-
-# Google tracking id to track your visitors
-
-
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
@@ -82,6 +78,8 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
+enable-gesture-navigation: True
+
 post-preview-words: 96
 
 paginate: 5
@@ -97,7 +95,6 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
 
 syntax-highlight: True
 
@@ -154,7 +151,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+err-404-img: "/img/labtocat.png"
 
 ################################################################################
 
