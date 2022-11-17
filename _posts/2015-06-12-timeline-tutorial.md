@@ -13,7 +13,7 @@ The Timeline is controlled by the following variables:
 <pre><code data-trim class="yaml">
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
+    date: "- Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
