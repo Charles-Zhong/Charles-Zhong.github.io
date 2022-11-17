@@ -93,20 +93,20 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/hdu.png"
     date: "September 2020 - Today"
-    description: "Master"
+    description: "Master 硕士"
   - image: "/img/timeline/zucc.png"
     date: "September 2016 - June 2020"
-    description: "Undergraduate"
+    description: "Undergraduate 本科"
   - image: "/img/timeline/yg.png"
     date: "September 2012 - June 2015"
-    description: "Senior High School"
-  - image: "/img/timeline/default.png"
+    description: "Senior High School 高中"
+  - image: "/img/timeline/birth.png"
     date: "June 1997"
-    description: "Birthday"
+    description: "Birthday 生日"
 
 # First image of the Timeline
 
-# timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/spidertocat.png"
 
 ###########
 # Contact #
