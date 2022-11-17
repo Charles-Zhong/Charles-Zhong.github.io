@@ -91,18 +91,18 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/hdu.png"
+    date: "September 2020 - Today"
+    description: "Master"
+  - image: "/img/timeline/zucc.png"
+    date: "September 2016 - June 2020"
+    description: "Undergraduate"
+  - image: "/img/timeline/yg.png"
+    date: "September 2012 - June 2015"
+    description: "Senior High School"
+  - image: "/img/timeline/default.png"
+    date: "June 1997"
+    description: "Birthday"
 
 # First image of the Timeline
 
