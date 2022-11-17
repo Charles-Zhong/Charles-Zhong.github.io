@@ -1,6 +1,6 @@
 
 # Site settings
-markdown: kramdown
+
 # NB! Set your site's url, otherwise stuff will break :)
 
 url: "https://Charles-Zhong.github.io/"
