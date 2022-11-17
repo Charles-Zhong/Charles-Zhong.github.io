@@ -18,6 +18,18 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2007 - August 2013"
+    description: "Started coding"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2007 - August 2013"
+    description: "Started coding"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2007 - August 2013"
+    description: "Started coding"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2007 - August 2013"
+    description: "Started coding"
 
 # First image of the Timeline
 
